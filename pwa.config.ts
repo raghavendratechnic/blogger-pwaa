@@ -43,5 +43,5 @@ export default defineConfig({
   },
 
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://www.the-raghavan.com/',
+  origin: 'https://www.the-raghavan.com',
 });

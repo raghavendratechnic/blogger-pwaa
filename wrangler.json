@@ -6,6 +6,12 @@
     "directory": "bucket",
     "html_handling": "drop-trailing-slash"
   },
+  "routes": [
+    {
+      "pattern": "www.the-raghavan.com/app/*",
+      "zone_name": "the-raghavan.com"
+    }
+  ],
   "dev": {
     "port": 8080
   }
